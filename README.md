@@ -1,4 +1,2 @@
 cd Neyes 
-
-#Compilate
- gcc main.c -o neyes -lncurses
+gcc main.c -o neyes -lncurses
